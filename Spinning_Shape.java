@@ -49,7 +49,7 @@ public class Spinning_Shape {
                     double cosB = Math.cos(B);
                     double sinB = Math.sin(B);
 
-                    // Establish the definition of our object in parametric components -> change to another shape
+                    // Establish the definition of our object in parametric components -> change to another shape.
                     double circleX = R2 + R1 * cosTheta;
                     double circleY = R1 * sinTheta;
 
